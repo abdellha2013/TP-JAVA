@@ -24,7 +24,6 @@ TP1/
 ├── Exercice6/   avgNotes.java · avgNotesWithTable.java
 ├── Exercice7/   sumMatrice.java
 ├── Exercice8/   Devinette.java · DevinetteOrionter.java
-├── TP N1 - Solutions.pdf
 └── README.md
 ```
 
@@ -91,9 +90,6 @@ java Exercice8.Devinette
 javac Exercice8/DevinetteOrionter.java
 java Exercice8.DevinetteOrionter
 ```
-
-> Remarque : le dossier `TP N1 - Solutions.pdf` contient l'énoncé et les corrigés de
-> référence. Le code de ce dépôt correspond à la mise en pratique de ces exercices.
 
 ## Détails notables de l'implémentation
 
